@@ -1,6 +1,6 @@
 # 🏦 Internet Banking Simulator
 
-Um simulador simples e interativo de um sistema de Internet Banking / Caixa Eletrônico. Este projeto foi desenvolvido para demonstrar operações bancárias básicas utilizando **Programação Orientada a Objetos (POO)** e controle de estado através de **Sessões no PHP**, contando com uma interface web moderna e responsiva.
+Um simulador simples e interativo de um sistema de Internet Banking / Caixa Eletrônico. Este projeto foi desenvolvido para demonstrar operações bancárias básicas utilizando **Programação Orientada a Objetos (POO)**, contando com uma interface web moderna.
 
 ---
 
