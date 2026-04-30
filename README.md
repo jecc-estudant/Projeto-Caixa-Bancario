@@ -1,22 +1,22 @@
-# 🏦 Internet Banking Simulator
+# Internet Banking Simulator:
 
 Um simulador simples e interativo de um sistema de Internet Banking / Caixa Eletrônico. Este projeto foi desenvolvido para demonstrar operações bancárias básicas utilizando **Programação Orientada a Objetos (POO)**, contando com uma interface web moderna.
 
 ---
 
-## ✨ Funcionalidades
+## 1 - Funcionalidades:
 
 O sistema simula as principais operações de uma conta corrente:
 
-* 💰 **Depósito:** Permite ao usuário inserir um valor positivo para adicionar ao saldo da conta.
-* 💸 **Saque:** Permite retirar um valor do saldo, contando com validação rigorosa (o sistema impede saques de valores negativos, zerados ou superiores ao saldo disponível).
-* 🧾 **Extrato Bancário:** Exibe um histórico completo de todas as movimentações (abertura da conta, depósitos e saques), formatado com data e hora de cada transação. A lista exibe as transações mais recentes no topo.
-* 🔄 **Controle de Sessão:** Botão "Sair da Conta" que encerra a sessão ativa do usuário, limpando o histórico de transações e zerando o saldo da simulação.
+* 💰 **Depósito:** Permite ao usuário inserir um valor positivo para adicionar ao saldo da conta;
+* 💸 **Saque:** Permite retirar um valor do saldo, contando com validação rigorosa (o sistema impede saques de valores negativos, zerados ou superiores ao saldo disponível);
+* 🧾 **Extrato Bancário:** Exibe um histórico completo de todas as movimentações (abertura da conta, depósitos e saques), formatado com data e hora de cada transação. A lista exibe as transações mais recentes no topo;
+* 🔄 **Controle de Sessão:** Botão "Sair da Conta" que encerra a sessão ativa do usuário, limpando o histórico de transações e zerando o saldo da simulação;
 * 🔔 **Feedback Visual (Alertas):** Mensagens dinâmicas informam o usuário sobre o sucesso das operações ou exibem alertas de erro caso alguma regra de negócio seja violada.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 2 - Tecnologias Utilizadas:
 
 * **Linguagem Backend:** [PHP 8+](https://www.php.net/) (Utilizando Classes, Métodos, Tipagem Forte e Superglobais `$_SESSION` e `$_POST`).
 * **Linguagem de Marcação:** HTML5
@@ -24,7 +24,7 @@ O sistema simula as principais operações de uma conta corrente:
 
 ---
 
-## 📂 Estrutura do Projeto
+## 3 - Estrutura do Projeto:
 
 ```text
 ├── index.php  # Contém a classe CaixaEletronico, a lógica de sessão e a estrutura HTML.
