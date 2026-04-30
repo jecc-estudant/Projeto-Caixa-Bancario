@@ -27,6 +27,6 @@ O sistema simula as principais operações de uma conta corrente:
 ## 📂 Estrutura do Projeto
 
 ```text
-├── index.php    # Contém a classe CaixaEletronico, a lógica de sessão e a estrutura HTML.
-├── assets/styles.css   # Contém toda a estilização, cores, layout responsivo e tipografia.
-└── README.md    # Documentação do projeto.
+├── index.php  # Contém a classe CaixaEletronico, a lógica de sessão e a estrutura HTML.
+├── assets/styles.css  # Contém toda a estilização, cores, layout responsivo e tipografia.
+└── README.md  # Documentação do projeto.
